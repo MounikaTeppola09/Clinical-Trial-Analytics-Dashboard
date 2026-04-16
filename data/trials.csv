@@ -1,0 +1,4 @@
+trial_id,trial_name,phase,target_enrollment,start_date
+1,Oncology Study A,Phase III,300,2025-01-01
+2,Diabetes Study B,Phase II,200,2025-02-01
+3,Cardio Study C,Phase III,250,2025-03-01
