@@ -60,7 +60,7 @@ The dashboard provides:
 
 ## Dashboard Preview
 
-(Add your screenshot here)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
