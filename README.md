@@ -62,6 +62,10 @@ The dashboard provides:
 
 ![Dashboard Preview](dashboard_preview.png)
 
+## Interactive Dashboard
+The Power BI dashboard file (.pbix) is included in the repository.  
+You can download and open it using Power BI Desktop to explore the interactive features.
+
 ---
 
 ## How to Run the Project
@@ -111,10 +115,3 @@ dashboard/Clinical_Trial_Dashboard.pbix
 * Add real-world dataset integration
 * Implement automated ETL pipeline
 
----
-
-## Author
-
-**Mounika Teppola**
-Master’s in Data Science
-University of Maryland, College Park
